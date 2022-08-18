@@ -33,6 +33,10 @@ jobs:
         sudo add-apt-repository ppa:inkscape.dev/stable
         sudo apt update
         sudo apt-get install inkscape
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
     - name: Export resume SVG to PDF
       run: inkscape src/Resume.svg --export-filename=Resume.pdf
     - name: Add PDF to PR

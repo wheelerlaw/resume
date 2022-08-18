@@ -25,6 +25,7 @@ jobs:
   build-pdf:
     name: Build Resume PDF
     runs-on: ubuntu-20.04
+    needs: [get-changed-files]
     if: contains(needs.get-changed-files.outputs.changed-files, 'src/Resume.svg')
     steps:
     - name: Install Inkscape

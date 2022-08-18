@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg132"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Resume.svg"
+   inkscape:export-filename="Resume.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title144">Resume</title>
+  <sodipodi:namedview
+     id="namedview134"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.0017511"
+     inkscape:cx="156.22643"
+     inkscape:cy="310.45636"
+     inkscape:window-width="2309"
+     inkscape:window-height="937"
+     inkscape:window-x="1291"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="backgrounds"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid138"
+       empspacing="5"
+       units="in"
+       spacingx="1.27"
+       spacingy="1.27"
+       dotted="false"
+       visible="true" />
+    <sodipodi:guide
+       position="6.35,247.65"
+       orientation="0,-1"
+       id="guide10994"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.35,237.49"
+       orientation="1,0"
+       id="guide10996"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.02,243.84"
+       orientation="1,0"
+       id="guide25363"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.75,238.76"
+       orientation="0,-1"
+       id="guide37500"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="165.1,257.81"
+       orientation="1,0"
+       id="guide37502"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.59,199.39"
+       orientation="0,-1"
+       id="guide44965"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="157.48,189.23"
+       orientation="1,0"
+       id="guide47903"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.94,160.02"
+       orientation="0,-1"
+       id="guide48712"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.94,115.57"
+       orientation="0,-1"
+       id="guide52382"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.21,71.12"
+       orientation="0,-1"
+       id="guide55445"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.21,36.83"
+       orientation="0,-1"
+       id="guide55447"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.21,22.86"
+       orientation="0,-1"
+       id="guide65124"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs129">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26676">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0"
+         id="stop26672" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:0;"
+         offset="1"
+         id="stop26674" />
+    </linearGradient>
+    <rect
+       x="24"
+       y="52.8"
+       width="326.4"
+       height="38.400001"
+       id="rect7132" />
+    <rect
+       x="24"
+       y="24"
+       width="393.60001"
+       height="33.600001"
+       id="rect5568" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26676"
+       id="linearGradient26678"
+       x1="9.2930758"
+       y1="45.886606"
+       x2="34.609376"
+       y2="45.886606"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="backgrounds">
+    <rect
+       style="display:inline;fill:#ebebeb;fill-opacity:1;stroke-width:0.300009"
+       id="sidebar_background"
+       width="57.150009"
+       height="254"
+       x="158.75"
+       y="25.4" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.176389;fill-opacity:1;stroke:none"
+       id="body_background"
+       width="158.75"
+       height="254"
+       x="0"
+       y="25.4" />
+    <rect
+       style="display:inline;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
+       id="header_background"
+       width="215.89999"
+       height="25.4"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.09043368,-1.4376231)"
+       id="header_name"
+       style="font-size:28px;white-space:pre;shape-inside:url(#rect5568);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="24"
+         y="49.476505"
+         id="tspan34585"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan34583">Wheeler Payson Hopkins Law</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.23771151,0.24870584)"
+       id="header_subtitle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect7132);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="24"
+         y="70.81587"
+         id="tspan34589"><tspan
+           style="fill:#b2b2b2"
+           id="tspan34587">Backend/DevOps Software Engineer</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
+       x="5.9314208"
+       y="35.537884"
+       id="experience_header"><tspan
+         sodipodi:role="line"
+         id="tspan11776"
+         style="fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583;font-weight:bold"
+         x="5.9314208"
+         y="35.537884">Experience</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.169302;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.08,38.1 H 153.67"
+       id="experience_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
+       x="164.71501"
+       y="35.602482"
+       id="personal_info_header"><tspan
+         sodipodi:role="line"
+         id="tspan11776-6"
+         style="font-weight:bold;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
+         x="164.71501"
+         y="35.602482">Personal Info</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.189669;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.83,38.1 h 46.99"
+       id="personal_info_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.189669;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.83,111.79989 h 46.99"
+       id="education_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.189669;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.83,139.7 h 46.99"
+       id="technologies_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.0812826"
+       y="43.175591"
+       id="kong_duration"><tspan
+         sodipodi:role="line"
+         id="tspan26091"
+         style="font-size:3.52778px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389"
+         x="6.0812826"
+         y="43.175591">Nov 2021-</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389"
+         x="6.0812826"
+         y="47.585316"
+         id="tspan26095">Present</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="43.18"
+       id="kong_title"><tspan
+         sodipodi:role="line"
+         id="tspan28538"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.02"
+         y="43.18">Senior Software Engineer</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.13747,39.341687 v 5.08"
+       id="kong_title_company_name_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 102.99747,39.341687 v 5.08"
+       id="kong_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="83.720093"
+       y="43.136936"
+       id="kong_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan30849"
+         style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389"
+         x="83.720093"
+         y="43.136936">Kong, Inc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="106.56115"
+       y="43.18"
+       id="kong_location"><tspan
+         sodipodi:role="line"
+         id="tspan30880"
+         style="stroke-width:0.176389"
+         x="106.56115"
+         y="43.18">Remote (IL)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.761;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="44.450001"
+       y="49.529999"
+       id="kong_bullet_1_content"
+       transform="translate(-8.7307442,-0.02831299)"><tspan
+         x="44.450001"
+         y="49.529999"
+         id="tspan34591">Create app scaffolding infrastructure between GitHub, Slack, DockerHub, </tspan><tspan
+         x="44.450001"
+         y="54.468875"
+         id="tspan34593">Kubernetes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.178474"
+       y="49.501686"
+       id="kong_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan37440"
+         style="stroke-width:0.176389"
+         x="33.178474"
+         y="49.501686">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.178474"
+       y="59.661686"
+       id="kong_bullet_2"><tspan
+         sodipodi:role="line"
+         id="tspan37460"
+         style="stroke-width:0.176389"
+         x="33.178474"
+         y="59.661686">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.809;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.671005"
+       y="59.689999"
+       id="kong_bullet_2_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.671005"
+         y="59.689999"
+         id="tspan34595">Create build/test/deployment pipelines with GitHub Actions, ArgoCD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.809;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.671005"
+       y="64.769997"
+       id="kong_bullet_3_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.671005"
+         y="64.769997"
+         id="tspan34597">Create app monitoring metrics and go/no-go gates using DataDog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.809;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.671005"
+       y="69.849998"
+       id="kong_bullet_4_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.671005"
+         y="69.849998"
+         id="tspan34599">Support existing Jenkins and Pulp infrastructure with AWS and Terraform</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.178474"
+       y="64.741684"
+       id="kong_bullet_3"><tspan
+         sodipodi:role="line"
+         id="tspan37484"
+         style="stroke-width:0.176389"
+         x="33.178474"
+         y="64.741684">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.178474"
+       y="69.821686"
+       id="kong_bullet_4"><tspan
+         sodipodi:role="line"
+         id="tspan37488"
+         style="stroke-width:0.176389"
+         x="33.178474"
+         y="69.821686">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.809;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.671005"
+       y="74.93"
+       id="kong_bullet_5_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.671005"
+         y="74.93"
+         id="tspan34601">Share on-call rotations using PagerDuty</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.178474"
+       y="74.901688"
+       id="kong_bullet_5"><tspan
+         sodipodi:role="line"
+         id="tspan37496"
+         style="stroke-width:0.176389"
+         x="33.178474"
+         y="74.901688">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.10001"
+       y="48.259998"
+       id="personal_info_location_content"><tspan
+         sodipodi:role="line"
+         id="tspan37508"
+         style="stroke-width:0.176389"
+         x="165.10001"
+         y="48.259998">Chicago, IL, USA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.10001"
+       y="55.880001"
+       id="personal_info_email_header"><tspan
+         sodipodi:role="line"
+         id="tspan37570"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="165.10001"
+         y="55.880001">Email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="60.918659"
+       id="personal_info_email_address"><tspan
+         sodipodi:role="line"
+         id="tspan37574"
+         style="stroke-width:0.176389"
+         x="165.09639"
+         y="60.918659">wheeler.law@outlook.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="68.538658"
+       id="personal_info_phone_header"><tspan
+         sodipodi:role="line"
+         id="tspan37578"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="165.09639"
+         y="68.538658">Phone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="73.618652"
+       id="personal_info_phone_number"><tspan
+         sodipodi:role="line"
+         id="tspan37582"
+         style="stroke-width:0.176389"
+         x="165.09639"
+         y="73.618652">(781) 854-8841</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="81.238655"
+       id="personal_info_github_header"><tspan
+         sodipodi:role="line"
+         id="tspan37586"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="165.09639"
+         y="81.238655">GitHub</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="86.318657"
+       id="personal_info_github_url"><tspan
+         sodipodi:role="line"
+         id="tspan37590"
+         style="stroke-width:0.176389"
+         x="165.09639"
+         y="86.318657">github.com/wheelerlaw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="93.93866"
+       id="personal_info_linkedin_header"><tspan
+         sodipodi:role="line"
+         id="tspan38320"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="165.09639"
+         y="93.93866">LinkedIn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09639"
+       y="99.018654"
+       id="personal_info_linkedin_url"><tspan
+         sodipodi:role="line"
+         id="tspan38326"
+         style="stroke-width:0.176389"
+         x="165.09639"
+         y="99.018654">linkedin.com/in/wheeler-law</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09999"
+       y="43.18"
+       id="personal_info_location_header"><tspan
+         sodipodi:role="line"
+         id="tspan44961"
+         style="stroke-width:0.176389;font-weight:bold"
+         x="165.09999"
+         y="43.18">Location</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.70747,78.711687 v 5.08"
+       id="red_hat_1_title_company_name_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.1794682"
+       y="82.580032"
+       id="red_hat_1_duration"><tspan
+         sodipodi:role="line"
+         id="tspan44967"
+         style="stroke-width:0.176389"
+         x="6.1794682"
+         y="82.580032">Oct 2019-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.1794682"
+         y="86.989746"
+         id="tspan44971">Oct 2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="82.521683"
+       id="red_hat_1_title"><tspan
+         sodipodi:role="line"
+         id="tspan44973"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.147469"
+         y="82.521683">Software Engineer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="88.871689"
+       id="red_hat_1_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan45703"
+         style="stroke-width:0.176389"
+         x="33.147469"
+         y="88.871689">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.84;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="88.900002"
+       id="red_hat_1_bullet_1_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.639999"
+         y="88.900002"
+         id="tspan34603">Develop Jenkins pipeline shared libraries in Groovy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.84;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="93.980003"
+       id="red_hat_1_bullet_2_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.639999"
+         y="93.980003"
+         id="tspan34605">Orchestrate large Jenkins deployment on OpenShift using Ansible, Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.84;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="99.059998"
+       id="red_hat_1_bullet_3_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.639999"
+         y="99.059998"
+         id="tspan34607">Share on-call rotations, triage JIRA tickets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="104.14"
+       id="red_hat_1_bullet_4_content"
+       transform="translate(-4.9525304,-0.02831299)"><tspan
+         x="40.639999"
+         y="104.14"
+         id="tspan34609">Interact and collaborate with open source community on Red Hat public </tspan><tspan
+         x="40.639999"
+         y="109.07888"
+         id="tspan34611">repositories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="93.951691"
+       id="red_hat_1_bullet_2"><tspan
+         sodipodi:role="line"
+         id="tspan47905"
+         style="stroke-width:0.176389"
+         x="33.147469"
+         y="93.951691">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="99.031685"
+       id="red_hat_1_bullet_3"><tspan
+         sodipodi:role="line"
+         id="tspan47909"
+         style="stroke-width:0.176389"
+         x="33.147469"
+         y="99.031685">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="104.11169"
+       id="red_hat_1_bullet_4"><tspan
+         sodipodi:role="line"
+         id="tspan47913"
+         style="stroke-width:0.176389"
+         x="33.147469"
+         y="104.11169">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="72.517464"
+       y="82.521683"
+       id="red_hat_1_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan47944"
+         style="stroke-width:0.176389"
+         x="72.517464"
+         y="82.521683">Red Hat</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.027471,78.711687 v 5.08"
+       id="red_hat_1_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="92.837471"
+       y="82.521683"
+       id="red_hat_1_location"><tspan
+         sodipodi:role="line"
+         id="tspan47961"
+         style="stroke-width:0.176389"
+         x="92.837471"
+         y="82.521683">Remote (NY, IL)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="35.687469"
+       y="114.27169"
+       id="red_hat_1_bullet_5_content"><tspan
+         sodipodi:role="line"
+         id="tspan47965"
+         style="stroke-width:0.176389"
+         x="35.687469"
+         y="114.27169">Mentor interns and junior/associate engineers on the team</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="114.27169"
+       id="red_hat_1_bullet_5"><tspan
+         sodipodi:role="line"
+         id="tspan48708"
+         style="stroke-width:0.176389"
+         x="33.147469"
+         y="114.27169">•</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.51747,118.08169 v 5.08"
+       id="red_hat_2_title_company_name_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.3499999"
+       y="121.92"
+       id="red_hat_2_duration"><tspan
+         sodipodi:role="line"
+         id="tspan48714"
+         style="stroke-width:0.176389"
+         x="6.3499999"
+         y="121.92">Jan 2019-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.3499999"
+         y="126.32971"
+         id="tspan48718">Oct 2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.147469"
+       y="121.89169"
+       id="red_hat_2_title"><tspan
+         sodipodi:role="line"
+         id="tspan48720"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.147469"
+         y="121.89169">Associate Consultant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="127"
+       id="red_hat_2_bullet_1_content"
+       transform="translate(-4.9531554,1.241687)"><tspan
+         x="40.639999"
+         y="127"
+         id="tspan34613">Provide guidance to customers on best practices for cloud-native app </tspan><tspan
+         x="40.639999"
+         y="131.93888"
+         id="tspan34615">development and continuous integration and deployment methodologies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.146843"
+       y="128.24168"
+       id="red_hat_2_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan49454"
+         style="stroke-width:0.176389"
+         x="33.146843"
+         y="128.24168">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:120.523;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="137.16"
+       id="red_hat_2_bullet_2_content"
+       transform="translate(-4.9531554,1.241687)"><tspan
+         x="40.639999"
+         y="137.16"
+         id="tspan34617">Help customers develop Java cloud-native apps and implement </tspan><tspan
+         x="40.639999"
+         y="142.09888"
+         id="tspan34619">contemporary SDLC/DevOps techniques, both on-site and remotely</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.146843"
+       y="138.40169"
+       id="red_hat_2_bullet_2"><tspan
+         sodipodi:role="line"
+         id="tspan50188"
+         style="stroke-width:0.176389"
+         x="33.146843"
+         y="138.40169">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="147.31999"
+       id="red_hat_2_bullet_3_content"
+       transform="translate(-4.9531554,1.241687)"><tspan
+         x="40.639999"
+         y="147.31999"
+         id="tspan34623">Received <tspan
+   style="font-style:italic"
+   id="tspan34621">Consulting Recognition Award</tspan> for successfully building and </tspan><tspan
+         x="40.639999"
+         y="152.25887"
+         id="tspan34625">presenting an app demo for a multi-million dollar contract with a large </tspan><tspan
+         x="40.639999"
+         y="157.19775"
+         id="tspan34627">domestic commercial bank  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.146843"
+       y="148.56168"
+       id="red_hat_2_bullet_3"><tspan
+         sodipodi:role="line"
+         id="tspan52378"
+         style="stroke-width:0.176389"
+         x="33.146843"
+         y="148.56168">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="76.327469"
+       y="121.89169"
+       id="red_hat_2_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan53869"
+         style="stroke-width:0.176389"
+         x="76.327469"
+         y="121.89169">Red Hat</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.83747,118.08169 v 5.08"
+       id="red_hat_2_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="96.647469"
+       y="121.89169"
+       id="red_hat_2_location"><tspan
+         sodipodi:role="line"
+         id="tspan53886"
+         style="stroke-width:0.176389"
+         x="96.647469"
+         y="121.89169">Remote (NY)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.2225313"
+       y="166.39832"
+       id="paychex_duration"><tspan
+         sodipodi:role="line"
+         id="tspan53110"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="166.39832">Aug 2017-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="170.80803"
+         id="tspan53114">Nov 2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="166.37"
+       id="paychex_title"><tspan
+         sodipodi:role="line"
+         id="tspan54616"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.02"
+         y="166.37">Developer II</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.15,162.56 v 5.08"
+       id="paychex_title_company_name_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="60.960003"
+       y="166.37"
+       id="paychex_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan54633"
+         style="stroke-width:0.176389"
+         x="60.960003"
+         y="166.37">Paychex</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.74,162.56 v 5.08"
+       id="paychex_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="82.272667"
+       y="166.35526"
+       id="paychex_location"><tspan
+         sodipodi:role="line"
+         id="tspan54650"
+         style="stroke-width:0.176389"
+         x="82.272667"
+         y="166.35526">Rochester, NY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="171.45"
+       id="paychex_bullet_1_content"
+       transform="translate(-5.079999,1.2700012)"><tspan
+         x="40.639999"
+         y="171.45"
+         id="tspan34629">Build full-stack (Angular2/Java) cloud apps on OpenShift; used MongoDB, </tspan><tspan
+         x="40.639999"
+         y="176.38888"
+         id="tspan34631">EMC ECS, and Kafka for data storage and stream processing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="172.71999"
+       id="paychex_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan56905"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="172.71999">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="181.61"
+       id="paychex_bullet_2_content"
+       transform="translate(-5.079999,1.2700012)"><tspan
+         x="40.639999"
+         y="181.61"
+         id="tspan34633">Sit on weekly internal cloud platforms committee; set platform architectural </tspan><tspan
+         x="40.639999"
+         y="186.54888"
+         id="tspan34635">direction, communicate changes and receive feedback to/from developers </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="182.87999"
+       id="paychex_bullet_2"><tspan
+         sodipodi:role="line"
+         id="tspan59091"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="182.87999">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="191.76999"
+       id="paychex_bullet_3_content"
+       transform="translate(-5.079999,1.2700012)"><tspan
+         x="40.639999"
+         y="191.76999"
+         id="tspan34637">Advocate for trunk-based development, automated deployments, and other </tspan><tspan
+         x="40.639999"
+         y="196.70887"
+         id="tspan34639">continuous delivery/integration best practices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="35.560001"
+       y="203.2"
+       id="paychex_bullet_4_content"><tspan
+         sodipodi:role="line"
+         id="tspan59825"
+         style="stroke-width:0.176389"
+         x="35.560001"
+         y="203.2">Assist managers by conducting technical interviews for open positions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="203.2"
+       id="paychex_bullet_4"><tspan
+         sodipodi:role="line"
+         id="tspan59829"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="203.2">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="193.03998"
+       id="paychex_bullet_3"><tspan
+         sodipodi:role="line"
+         id="tspan59833"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="193.03998">•</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.92,207.01 v 5.08"
+       id="mindex_company_name_location_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.660001,207.01 v 5.08"
+       id="mindex_title_company_name_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.2225313"
+       y="210.84831"
+       id="mindex_duration"><tspan
+         sodipodi:role="line"
+         id="tspan60563"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="210.84831">Jan 2017-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="215.25803"
+         id="tspan60567">Aug 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="210.81999"
+       id="mindex_title"><tspan
+         sodipodi:role="line"
+         id="tspan60569"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.02"
+         y="210.81999">Contractor Developer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="77.469994"
+       y="210.81999"
+       id="mindex_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan60587"
+         style="stroke-width:0.176389"
+         x="77.469994"
+         y="210.81999">Mindex Technologies, Inc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="125.73"
+       y="210.81999"
+       id="mindex_location"><tspan
+         sodipodi:role="line"
+         id="tspan60591"
+         style="stroke-width:0.176389"
+         x="125.73"
+         y="210.81999">Rochester, NY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="35.560001"
+       y="217.16998"
+       id="mindex_bullet_1_content"><tspan
+         sodipodi:role="line"
+         id="tspan60635"
+         style="stroke-width:0.176389"
+         x="35.560001"
+         y="217.16998">Build full-stack (Angular2/Java) cloud apps on OpenShift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="220.98"
+       id="mindex_bullet_2_content"
+       transform="translate(-5.079999,1.2700012)"><tspan
+         x="40.639999"
+         y="220.98"
+         id="tspan34641">Automated legacy SDLC workflow for Oracle Forms using Vagrant and </tspan><tspan
+         x="40.639999"
+         y="225.91888"
+         id="tspan34643">Jenkins</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.793;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="40.639999"
+       y="231.13998"
+       id="mindex_bullet_3_content"
+       transform="translate(-5.079999,1.2700012)"><tspan
+         x="40.639999"
+         y="231.13998"
+         id="tspan34645">Presented POC of &quot;serverless&quot; cloud infrastructure for app development at </tspan><tspan
+         x="40.639999"
+         y="236.07886"
+         id="tspan34647">3rd annual internal hackathon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="217.16998"
+       id="mindex_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan61399"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="217.16998">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="222.24998"
+       id="mindex_bullet_2"><tspan
+         sodipodi:role="line"
+         id="tspan61403"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="222.24998">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="232.40997"
+       id="mindex_bullet_3"><tspan
+         sodipodi:role="line"
+         id="tspan61407"
+         style="stroke-width:0.176389"
+         x="33.02"
+         y="232.40997">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.2225313"
+       y="245.13831"
+       id="netscout_duration"><tspan
+         sodipodi:role="line"
+         id="tspan62137"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="245.13831">Jan 2016-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="249.54802"
+         id="tspan62141">Aug 2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="33.02"
+       y="245.10999"
+       id="netscout_title"><tspan
+         sodipodi:role="line"
+         id="tspan62143"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="33.02"
+         y="245.10999">Software Engineer Intern</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="79.88253"
+       y="245.13831"
+       id="netscout_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan62174"
+         style="stroke-width:0.176389"
+         x="79.88253"
+         y="245.13831">Netscout Systems, Inc.</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.342531,241.32831 v 5.08"
+       id="netscout_title_company_name_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.25253,241.32831 v 5.08"
+       id="netscout_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="121.79253"
+       y="245.13831"
+       id="netscout_location"><tspan
+         sodipodi:role="line"
+         id="tspan62917"
+         style="stroke-width:0.176389"
+         x="121.79253"
+         y="245.13831">Colorado Springs, CO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="35.432529"
+       y="251.4883"
+       id="netscout_bullet_1_content"><tspan
+         sodipodi:role="line"
+         id="tspan62925"
+         style="stroke-width:0.176389"
+         x="35.432529"
+         y="251.4883">Build full-stack (AngularJS/Node.js) network monitoring application</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="32.892532"
+       y="251.4883"
+       id="netscout_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan65120"
+         style="stroke-width:0.176389"
+         x="32.892532"
+         y="251.4883">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="6.2225313"
+       y="259.10831"
+       id="intersystems_duration"><tspan
+         sodipodi:role="line"
+         id="tspan65126"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="259.10831">May 2014-</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.176389"
+         x="6.2225313"
+         y="263.51801"
+         id="tspan65130">Dec 2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="32.892532"
+       y="259.10831"
+       id="intersystems_title"><tspan
+         sodipodi:role="line"
+         id="tspan65132"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="32.892532"
+         y="259.10831">Product Support Intern</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="78.612526"
+       y="259.10831"
+       id="intersystems_company_name"><tspan
+         sodipodi:role="line"
+         id="tspan65136"
+         style="stroke-width:0.176389"
+         x="78.612526"
+         y="259.10831">InterSystems Corp.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="116.71252"
+       y="259.10831"
+       id="intersystems_location"><tspan
+         sodipodi:role="line"
+         id="tspan65140"
+         style="stroke-width:0.176389"
+         x="116.71252"
+         y="259.10831">Cambridge, MA</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.802531,255.29831 v 5.08"
+       id="intersystems_title_company_name_divider" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.157767;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.90253,255.29831 v 5.08"
+       id="intersystems_company_name_location_divider" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:121.92;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="35.559998"
+       y="264.16"
+       id="intersystems_bullet_1_content"
+       transform="translate(-0.12746857,1.2983142)"><tspan
+         x="35.559998"
+         y="264.16"
+         id="tspan34649">Re-write several internal applications, including an employee performance </tspan><tspan
+         x="35.559998"
+         y="269.09888"
+         id="tspan34651">review web app with InterSystems ZEN AJAX web framework and KockoutJS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="32.892532"
+       y="265.45831"
+       id="intersystems_bullet_1"><tspan
+         sodipodi:role="line"
+         id="tspan65927"
+         style="stroke-width:0.176389"
+         x="32.892532"
+         y="265.45831">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="164.71501"
+       y="109.19788"
+       id="education_header"><tspan
+         sodipodi:role="line"
+         id="tspan65931"
+         style="font-weight:bold;font-size:5.29167px;stroke-width:0.176389"
+         x="164.71501"
+         y="109.19788">Education</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.10001"
+       y="121.95989"
+       id="education_school_name"><tspan
+         sodipodi:role="line"
+         id="tspan65962"
+         style="font-size:3.52778px;stroke-width:0.176389"
+         x="165.10001"
+         y="121.95989">Rochester Institute of Tech.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09999"
+       y="116.87988"
+       id="education_degree"><tspan
+         sodipodi:role="line"
+         id="tspan65966"
+         style="font-weight:bold;stroke-width:0.176389"
+         x="165.09999"
+         y="116.87988">BS, Computer Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09999"
+       y="127.03989"
+       id="education_timeline"><tspan
+         sodipodi:role="line"
+         id="tspan66696"
+         style="stroke-width:0.176389"
+         x="165.09999"
+         y="127.03989">Sep 2012-May 2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09999"
+       y="137.16"
+       id="technologies_header"><tspan
+         sodipodi:role="line"
+         id="tspan68166"
+         style="font-size:5.29167px;stroke-width:0.176389;font-weight:bold"
+         x="165.09999"
+         y="137.16">Technologies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:44.4445;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       x="165.09999"
+       y="144.78"
+       id="technologies_body"
+       transform="translate(0.00555826,0.02831427)"><tspan
+         x="165.09999"
+         y="144.78"
+         id="tspan34653">AWS • Terraform • Helm • Git
+</tspan><tspan
+         x="165.09999"
+         y="148.74875"
+         id="tspan34655">GitHub Actions • Docker • Pulp
+</tspan><tspan
+         x="165.09999"
+         y="152.7175"
+         id="tspan34657">Kubernetes • Jenkins • ArgoCD
+</tspan><tspan
+         x="165.09999"
+         y="156.68625"
+         id="tspan34659">DataDog • Python • Rust
+</tspan><tspan
+         x="165.09999"
+         y="160.655"
+         id="tspan34661">Groovy • Ansible • Gradle
+</tspan><tspan
+         x="165.09999"
+         y="164.62375"
+         id="tspan34663">OpenShift • WildFly • GraphQL </tspan><tspan
+         x="165.09999"
+         y="168.5925"
+         id="tspan34665">Kafka • Java • SpringBoot
+</tspan><tspan
+         x="165.09999"
+         y="172.56125"
+         id="tspan34667">MongoDB • Scala • Bash
+</tspan></text>
+  </g>
+  <metadata
+     id="metadata142">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Wheeler Law</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Resume</dc:title>
+        <dc:date>17 AUG 2022</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -34,7 +34,7 @@ jobs:
       run: inkscape src/Resume.svg --export-filename=Resume.pdf
     - name: Add PDF to PR
       if: github.event_name == 'pull_request'
-      uses: actions/upload-artifact@v3.1
+      uses: actions/upload-artifact@v3
       with:
         name: Resume.pdf
         path: Resume.pdf

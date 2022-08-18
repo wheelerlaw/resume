@@ -1,0 +1,34 @@
+name: PDF Generation
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+on:
+  push:
+    branches:
+    - master
+  pull_request: {}
+
+jobs:
+  get-changed-files:
+    name: Get Changed Files
+    runs-on: ubuntu-20.04
+    outputs:
+      changed-files: ${{ steps.changed-files.outputs.all_changed_and_modified_files }}
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+    - name: Get list of all changes
+      uses: tj-actions/changed-files@v26
+      id: changed-files
+
+  build-pdf:
+    name: Build Resume PDF
+    runs-on: ubuntu-20.04
+    if: contains(needs.get-changed-files.outputs.changed-files, 'src/Resume.svg')
+    steps:
+    - name: Install Inkscape
+      run: sudo apt-get install inkscape
+    - name: Export resume SVG to PDF
+      run: inkscape src/Resume.svg --export-filename=Resume.pdf
+

@@ -5,7 +5,7 @@ concurrency:
 on:
   push:
     branches:
-    - master
+    - main
   pull_request: {}
 
 jobs:
@@ -31,4 +31,10 @@ jobs:
       run: sudo apt-get install inkscape
     - name: Export resume SVG to PDF
       run: inkscape src/Resume.svg --export-filename=Resume.pdf
+    - name: Add PDF to PR
+      if: github.event_name == 'pull_request'
+      uses: actions/upload-artifact@v3.1
+      with:
+        name: Resume.pdf
+        path: Resume.pdf
 

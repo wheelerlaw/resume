@@ -29,7 +29,10 @@ jobs:
     if: contains(needs.get-changed-files.outputs.changed-files, 'src/Resume.svg')
     steps:
     - name: Install Inkscape
-      run: sudo apt-get install inkscape
+      run: |
+        sudo add-apt-repository ppa:inkscape.dev/stable
+        sudo apt update
+        sudo apt-get install inkscape
     - name: Export resume SVG to PDF
       run: inkscape src/Resume.svg --export-filename=Resume.pdf
     - name: Add PDF to PR

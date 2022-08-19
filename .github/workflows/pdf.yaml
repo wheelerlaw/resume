@@ -75,7 +75,7 @@ jobs:
       run: |
         mv Resume.pdf Resume-${{ steps.bump-version.outputs.new-version }}.pdf
         until gh release view ${{ steps.bump-version.outputs.new-version }}; do
-          echo "Release ${{ steps.bump-version.outputs.new-version }} not found. Waiting 1 second until checking again...
+          echo "Release ${{ steps.bump-version.outputs.new-version }} not found. Waiting 1 second until checking again..."
           sleep 1
         done
         gh release upload ${{ steps.bump-version.outputs.new-version }} Resume-${{ steps.bump-version.outputs.new-version }}.pdf

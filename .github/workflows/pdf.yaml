@@ -1,0 +1,79 @@
+name: PDF Generation
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+on:
+  push:
+    branches:
+    - main
+  pull_request: {}
+
+jobs:
+  get-changed-files:
+    name: Get Changed Files
+    runs-on: ubuntu-20.04
+    outputs:
+      changed-files: ${{ steps.changed-files.outputs.all_changed_and_modified_files }}
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+    - name: Get list of all changes
+      uses: tj-actions/changed-files@v26
+      id: changed-files
+
+  build-pdf:
+    name: Build Resume PDF
+    runs-on: ubuntu-22.04
+    needs: [get-changed-files]
+    if: contains(needs.get-changed-files.outputs.changed-files, 'src/Resume.svg')
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+    - name: Export resume SVG to PDF
+      uses: docker://docker.io/minidocks/inkscape
+      with:
+        args: src/Resume.svg --export-filename=Resume.pdf
+    - name: Upload Artifact to Job
+      uses: actions/upload-artifact@v3
+      with:
+        name: Resume.pdf
+        path: Resume.pdf
+
+  publish-pdf:
+    name: Publish Resume PDF
+    runs-on: ubuntu-22.04
+    needs: [build-pdf]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+    - name: Bump PDF Version
+      id: bump-version
+      run: |
+        new_version="$(./.github/scripts/bump_version.sh)"
+        echo "::set-output name=new-version::$new_version"
+    - name: Create Release
+      uses: release-drafter/release-drafter@v5
+      id: create-release
+      with:
+        tag: ${{ steps.bump-version.outputs.new-version }}
+        name: ${{ steps.bump-version.outputs.new-version }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Download Artifact from Previous Job
+      uses: actions/download-artifact@v3
+      with:
+        name: Resume.pdf
+    - name: Upload Release Asset
+      run: |
+        mv Resume.pdf Resume-${{ steps.bump-version.outputs.new-version }}.pdf
+        gh release upload ${{ steps.bump-version.outputs.new-version }} Resume-${{ steps.bump-version.outputs.new-version }}.pdf
+    - name: Publish Release
+      run: gh release edit ${{ steps.bump-version.outputs.new-version }} --draft=false

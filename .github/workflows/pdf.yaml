@@ -19,7 +19,7 @@ jobs:
       with:
         fetch-depth: 2
     - name: Get list of all changes
-      uses: tj-actions/changed-files@v26
+      uses: tj-actions/changed-files@v42
       id: changed-files
 
   build-pdf:
@@ -58,7 +58,7 @@ jobs:
       id: bump-version
       run: |
         new_version="$(./.github/scripts/bump_version.sh)"
-        echo "::set-output name=new-version::$new_version"
+        echo "new-version=$new_version" >> $GITHUB_OUTPUT
     - name: Create Release
       uses: release-drafter/release-drafter@v5
       id: create-release

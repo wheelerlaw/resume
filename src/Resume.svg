@@ -31,10 +31,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.89360188"
-     inkscape:cx="316.69584"
-     inkscape:cy="523.72316"
-     inkscape:window-width="1708"
+     inkscape:zoom="1.2637439"
+     inkscape:cx="331.95017"
+     inkscape:cy="313.35463"
+     inkscape:window-width="1499"
      inkscape:window-height="1216"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -235,9 +235,9 @@
        style="font-size:28px;white-space:pre;shape-inside:url(#rect5568);display:inline;fill:#ffffff;fill-opacity:1"><tspan
          x="24"
          y="49.476505"
-         id="tspan2"><tspan
+         id="tspan7"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan1">Wheeler Payson Hopkins Law</tspan></tspan></text>
+           id="tspan6">Wheeler Payson Hopkins Law</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.264583,0,0,0.264583,-0.434082,0.337693)"
@@ -245,9 +245,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect7132);display:inline;fill:#ffffff;fill-opacity:1"><tspan
          x="24"
          y="70.81587"
-         id="tspan4"><tspan
+         id="tspan51"><tspan
            style="fill:#b2b2b2"
-           id="tspan3">Back-end/DevOps Software Engineer</tspan></tspan></text>
+           id="tspan10">Back-end/DevOps Software Engineer</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
@@ -265,7 +265,7 @@
        id="experience_divider" />
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
        x="6.0812826"
        y="43.103245"
        id="kong_duration"><tspan
@@ -278,7 +278,7 @@
          style="font-size:3.52778px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389"
          x="6.0812826"
          y="47.51297"
-         id="tspan26095">Present</tspan></text>
+         id="tspan26095">Mar 2024</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -342,7 +342,7 @@
        inkscape:label="kong_bullet_1_content"><tspan
          x="44.450001"
          y="49.529999"
-         id="tspan5">Contribute to back-end Node.js + NestJS app development using TypeScript</tspan></text>
+         id="tspan52">Build back-end Node.js/NestJS/Typescript and Golang microservices  </tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -365,10 +365,10 @@
        inkscape:label="kong_bullet_2_content"><tspan
          x="44.450001"
          y="49.529999"
-         id="tspan6">Create app scaffolding infrastructure between GitHub, Slack, DockerHub, </tspan><tspan
+         id="tspan53">Package and deploy apps to AWS EKS Kubernetes clusters using GitHub </tspan><tspan
          x="44.450001"
          y="54.609997"
-         id="tspan7">Kubernetes using Golang and Python</tspan></text>
+         id="tspan54">Actions, Helm, and ArgoCD. </tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -391,7 +391,7 @@
        inkscape:label="kong_bullet_3_content"><tspan
          x="40.671005"
          y="59.689999"
-         id="tspan8">Create build/test/deployment pipelines with GitHub Actions, ArgoCD, Helm</tspan></text>
+         id="tspan55">Create app monitoring and observability systems using Datadog</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -414,30 +414,10 @@
        inkscape:label="kong_bullet_4_content"><tspan
          x="40.671005"
          y="64.769997"
-         id="tspan9">Create app monitoring metrics and go/no-go gates using DataDog</tspan></text>
-    <text
-       xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
-       x="33.178474"
-       y="74.946251"
-       id="kong_bullet_4"
-       inkscape:label="kong_bullet_5"><tspan
-         sodipodi:role="line"
-         id="tspan37488"
-         style="stroke-width:0.176389"
-         x="33.178474"
-         y="74.946251">•</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:116.809;display:inline;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
-       x="40.671005"
-       y="69.849998"
-       id="kong_bullet_4_content"
-       transform="translate(-4.95253,5.09626)"
-       inkscape:label="kong_bullet_5_content"><tspan
+         id="tspan56">Create client-side automation tools and a Docker Hub Terraform provider </tspan><tspan
          x="40.671005"
-         y="69.849998"
-         id="tspan10">Support existing Jenkins and Pulp infrastructure with AWS and Terraform</tspan></text>
+         y="69.179707"
+         id="tspan57">in Golang </tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -460,7 +440,7 @@
        inkscape:label="kong_bullet_6_content"><tspan
          x="40.671005"
          y="74.93"
-         id="tspan11">Share on-call rotations using PagerDuty</tspan></text>
+         id="tspan58">Manage cloud infrastructure using Terraform, Terragrunt, and Atlantis</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -538,7 +518,7 @@
        transform="translate(-4.95253,5.09626)"><tspan
          x="40.639999"
          y="88.900002"
-         id="tspan12">Develop Jenkins pipeline shared libraries in Groovy</tspan></text>
+         id="tspan59">Develop Jenkins pipeline shared libraries in Groovy</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -559,7 +539,7 @@
        transform="translate(-4.95253,5.09626)"><tspan
          x="40.639999"
          y="93.980003"
-         id="tspan13">Orchestrate large Jenkins deployment on OpenShift using Ansible, Python</tspan></text>
+         id="tspan60">Orchestrate large Jenkins deployment on OpenShift using Ansible, Python</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -580,7 +560,7 @@
        transform="translate(-4.95253,5.09626)"><tspan
          x="40.639999"
          y="99.059998"
-         id="tspan14">Share on-call rotations, triage JIRA tickets</tspan></text>
+         id="tspan61">Share on-call rotations, triage JIRA tickets</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -601,10 +581,10 @@
        transform="translate(-4.95253,5.09626)"><tspan
          x="40.639999"
          y="104.14"
-         id="tspan15">Interact and collaborate with open source community on Red Hat public </tspan><tspan
+         id="tspan62">Interact and collaborate with open source community on Red Hat public </tspan><tspan
          x="40.639999"
          y="109.22"
-         id="tspan16">repositories</tspan></text>
+         id="tspan63">repositories</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -704,10 +684,10 @@
        transform="translate(-4.95316,6.36626)"><tspan
          x="40.639999"
          y="127"
-         id="tspan17">Provide guidance to customers on best practices for cloud-native app </tspan><tspan
+         id="tspan64">Provide guidance to customers on best practices for cloud-native app </tspan><tspan
          x="40.639999"
          y="132.08"
-         id="tspan18">development and continuous integration and deployment methodologies</tspan></text>
+         id="tspan65">development and continuous integration and deployment methodologies</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -728,10 +708,10 @@
        transform="translate(-4.95316,6.36626)"><tspan
          x="40.639999"
          y="137.16"
-         id="tspan19">Help customers develop Java cloud-native apps and implement </tspan><tspan
+         id="tspan66">Help customers develop Java cloud-native apps and implement </tspan><tspan
          x="40.639999"
          y="142.24"
-         id="tspan20">contemporary SDLC/DevOps techniques, both on-site and remotely</tspan></text>
+         id="tspan67">contemporary SDLC/DevOps techniques, both on-site and remotely</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -752,15 +732,15 @@
        transform="translate(-4.95316,6.36626)"><tspan
          x="40.639999"
          y="147.31999"
-         id="tspan22">Received <tspan
+         id="tspan69">Received <tspan
    style="font-style:italic"
-   id="tspan21">Consulting Recognition Award</tspan> for successfully building and </tspan><tspan
+   id="tspan68">Consulting Recognition Award</tspan> for successfully building and </tspan><tspan
          x="40.639999"
          y="152.40001"
-         id="tspan23">presenting an app demo for a multi-million dollar contract with a large </tspan><tspan
+         id="tspan70">presenting an app demo for a multi-million dollar contract with a large </tspan><tspan
          x="40.639999"
          y="157.48001"
-         id="tspan24">domestic commercial bank  </tspan></text>
+         id="tspan71">domestic commercial bank  </tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -827,10 +807,10 @@
        transform="translate(-5.08,6.36626)"><tspan
          x="40.639999"
          y="171.45"
-         id="tspan25">Build full-stack (Angular2/Java) cloud apps on OpenShift; used MongoDB, </tspan><tspan
+         id="tspan72">Build full-stack (Angular2/Java) cloud apps on OpenShift; used MongoDB, </tspan><tspan
          x="40.639999"
          y="176.52999"
-         id="tspan26">EMC ECS, and Kafka for data storage and stream processing</tspan></text>
+         id="tspan73">EMC ECS, and Kafka for data storage and stream processing</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -851,10 +831,10 @@
        transform="translate(-5.08,6.36625)"><tspan
          x="40.639999"
          y="181.61"
-         id="tspan27">Sit on weekly internal cloud platforms committee; set platform architectural </tspan><tspan
+         id="tspan74">Sit on weekly internal cloud platforms committee; set platform architectural </tspan><tspan
          x="40.639999"
          y="186.69"
-         id="tspan28">direction, communicate changes and receive feedback to/from developers </tspan></text>
+         id="tspan75">direction, communicate changes and receive feedback to/from developers </tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -875,10 +855,10 @@
        transform="translate(-5.08,6.36627)"><tspan
          x="40.639999"
          y="191.76999"
-         id="tspan29">Advocate for trunk-based development, automated deployments, and other </tspan><tspan
+         id="tspan76">Advocate for trunk-based development, automated deployments, and other </tspan><tspan
          x="40.639999"
          y="196.84999"
-         id="tspan30">continuous delivery/integration best practices</tspan></text>
+         id="tspan77">continuous delivery/integration best practices</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -1000,10 +980,10 @@
        transform="translate(-5.08,6.36626)"><tspan
          x="40.639999"
          y="220.98"
-         id="tspan31">Automated legacy SDLC workflow for Oracle Forms using Vagrant and </tspan><tspan
+         id="tspan78">Automated legacy SDLC workflow for Oracle Forms using Vagrant and </tspan><tspan
          x="40.639999"
          y="226.05999"
-         id="tspan32">Jenkins</tspan></text>
+         id="tspan79">Jenkins</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -1024,10 +1004,10 @@
        transform="translate(-5.08,6.36627)"><tspan
          x="40.639999"
          y="231.13998"
-         id="tspan33">Presented POC of &quot;serverless&quot; cloud infrastructure for app development at </tspan><tspan
+         id="tspan80">Presented POC of &quot;serverless&quot; cloud infrastructure for app development at </tspan><tspan
          x="40.639999"
          y="236.21998"
-         id="tspan34">3rd annual internal hackathon</tspan></text>
+         id="tspan81">3rd annual internal hackathon</tspan></text>
     <text
        xml:space="preserve"
        style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1"
@@ -1320,42 +1300,42 @@
        transform="translate(0.00555826,0.0283143)"><tspan
          x="165.09999"
          y="144.78"
-         id="tspan35">AWS • Terraform • Helm • Git
+         id="tspan82">AWS • Terraform • Helm • Git
 </tspan><tspan
          x="165.09999"
          y="148.74875"
-         id="tspan36">GitHub Actions • Docker • Pulp
+         id="tspan83">GitHub Actions • Docker • Pulp
 </tspan><tspan
          x="165.09999"
          y="152.7175"
-         id="tspan37">Kubernetes • Jenkins • ArgoCD
+         id="tspan84">Kubernetes • Jenkins • ArgoCD
 </tspan><tspan
          x="165.09999"
          y="156.68625"
-         id="tspan38">Golang • Node.js • TypeScript
+         id="tspan85">Golang • Node.js • TypeScript
 </tspan><tspan
          x="165.09999"
          y="160.655"
-         id="tspan39">Jest • NestJS • Tilt • Atlantis
+         id="tspan86">Jest • NestJS • Tilt • Atlantis
 </tspan><tspan
          x="165.09999"
          y="164.62375"
-         id="tspan40">DataDog • Python • Rust
+         id="tspan87">DataDog • Python • Rust
 </tspan><tspan
          x="165.09999"
          y="168.5925"
-         id="tspan41">Groovy • Ansible • Gradle
+         id="tspan88">Groovy • Ansible • Gradle
 </tspan><tspan
          x="165.09999"
          y="172.56125"
-         id="tspan42">OpenShift • WildFly • GraphQL </tspan><tspan
+         id="tspan89">OpenShift • WildFly • GraphQL </tspan><tspan
          x="165.09999"
          y="176.53"
-         id="tspan43">Kafka • Java • SpringBoot
+         id="tspan90">Kafka • Java • SpringBoot
 </tspan><tspan
          x="165.09999"
          y="180.49875"
-         id="tspan44">MongoDB • Scala • Bash
+         id="tspan91">MongoDB • Scala • Bash
 </tspan></text>
     <text
        xml:space="preserve"
@@ -1367,21 +1347,21 @@
        inkscape:label="foss_watermark"><tspan
          x="609.96289"
          y="1026.3474"
-         id="tspan46"><tspan
+         id="tspan93"><tspan
            style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:justify;fill:#808080"
-           id="tspan45">This resume was created using FOSS. 
+           id="tspan92">This resume was created using FOSS. 
 </tspan></tspan><tspan
          x="609.96289"
          y="1036.4009"
-         id="tspan48"><tspan
+         id="tspan95"><tspan
            style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:justify;fill:#808080"
-           id="tspan47">See the source code at 
+           id="tspan94">See the source code at 
 </tspan></tspan><tspan
          x="609.96289"
          y="1046.4545"
-         id="tspan50"><tspan
+         id="tspan97"><tspan
            style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:justify;fill:#808080"
-           id="tspan49">https://github.com/wheelerlaw/resume</tspan></tspan></text>
+           id="tspan96">https://github.com/wheelerlaw/resume</tspan></tspan></text>
   </g>
   <metadata
      id="metadata142">

@@ -42,7 +42,7 @@ jobs:
       with:
         args: src/Resume.svg --export-filename=Resume.pdf
     - name: Upload Artifact to Job
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: Resume.pdf
         path: Resume.pdf
@@ -73,7 +73,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Download Artifact from Previous Job
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: Resume.pdf
     - name: Upload Release Asset

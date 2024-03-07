@@ -34,7 +34,7 @@ jobs:
     if: needs.get-changed-files.outputs.changed-files == 'true'
     steps:
     - name: Checkout Repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 2
     - name: Export resume SVG to PDF
@@ -56,7 +56,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
     - name: Checkout Repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 2
     - name: Bump PDF Version
